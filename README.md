@@ -42,7 +42,7 @@ With nearly 5 years of experience, I support **entrepreneurs, SMEs, and associat
 - 🔐 **Digimazone** – A fictional e-commerce website built from scratch (HTML, CSS, JS, PHP) with an admin interface, dynamic filters, real-time cart updates, and simulated payments.  
 - 📚 **Recettes AI** – A smart recipe Progressive Web App (PHP procedural + OOP) allowing users to input ingredients and generate AI-optimized recipes.  
 - 🛒 **Tarawih Sites (PHP & Wix)** – E-commerce and content sites with full SEO & Facebook Ads strategy (tarawih.fr, tarawih.eu, tarawih.com).  
-- 🎥 **metmatimaamar.com** – Netflix-like PHP video platform with advanced SEO & Facebook Ads integration.  
+- 🎥 **Apprendre le Code** – Platform PHP video learning platform with advanced SEO & Facebook Ads integration.  
 - 🧩 **C#/.NET Projects** – Apps created using Visual Studio and .NET MAUI, combining modern UI (XAML) and robust logic.
 
 Find more projects on [github.com/agweb12](https://github.com/agweb12)
